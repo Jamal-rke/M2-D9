@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(7, 2, 2);
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+
+.badge
+{
+  position:absolute;
+  top: 1px;
+  left: 0px;
+  font-size: xx-small;
+}
